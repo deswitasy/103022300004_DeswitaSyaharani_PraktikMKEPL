@@ -1,5 +1,5 @@
-import src.main.java.Counter;
 package src.main.java;
+import src.main.java.Counter;
 
 public class Driver {
 
